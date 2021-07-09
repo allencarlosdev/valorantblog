@@ -1,3 +1,9 @@
+/*                                                   Author: Ing Carlos Allen                                               /*
+/*                                               https://github.com/CarlosAllen93                                           /*
+/*                                               contact : allencarlosDev@gmail.com                                         /*
+
+
+/*background page */
 body {
     background: #ece8e1;
     font-family: sans-serif, georgia;
@@ -5,7 +11,9 @@ body {
     line-height: 1.5em;
     margin: 0;
 }
+/*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
 
+/* body page */
 p {
     font-family: sans-serif, georgia;
     font-size: 0.6rem;
@@ -18,11 +26,20 @@ p {
     max-width: 800px;
     margin: 0 auto;
 }
-
+.main {
+    padding: 5rem;
+}
+/*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
+/* nav bar*/
 .header {
     background: #111111;
     color: white;
-    padding: 2rem 0;
+    padding: 0.8rem 0;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
 }
 
 .header a {
@@ -40,3 +57,25 @@ p {
     padding: 0;
     list-style: none;
 }
+.navigation ul li {
+    display: inline-block;
+}
+.navigation ul li a {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+/*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
+/* footer page */
+.footer {
+    background: #111111;
+    padding: 4rem 0;
+    text-align: center;
+    color: white;
+    margin-top: 6rem;
+    margin-bottom: 0;
+}
+/*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
+/*  Responsive desgin */
+
+/*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
