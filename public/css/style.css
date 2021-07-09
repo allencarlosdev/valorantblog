@@ -1,0 +1,42 @@
+body {
+    background: #ece8e1;
+    font-family: sans-serif, georgia;
+    font-size: 0.6rem;
+    line-height: 1.5em;
+    margin: 0;
+}
+
+p {
+    font-family: sans-serif, georgia;
+    font-size: 0.6rem;
+    line-height: 1.5em;
+    color: #768079;
+    margin-bottom: 1.6em;
+}
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    background: #111111;
+    color: white;
+    padding: 2rem 0;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+}
+
+.logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
