@@ -51,6 +51,7 @@ p {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 .navigation ul {
     margin: 0;
@@ -61,8 +62,12 @@ p {
     display: inline-block;
 }
 .navigation ul li a {
+    margin-top: 1rem;
     display: block;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 0;
+}
+.menu-icon {
+    display: none;
 }
 
 /*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
@@ -77,5 +82,49 @@ p {
 }
 /*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
 /*  Responsive desgin */
+@media only screen and (max-width: 767px) {
+    .header {
+        background: #111111;
+        color: white;
+        padding: 0.8rem 0;
 
+        position: fixed;
+        left: 0;
+        top: 0;
+        right: 0;
+    }
+
+    .header a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .logo-nav-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .navigation {
+        width: 100%;
+    }
+    .navigation ul {
+        display: none;
+    }
+
+    .navigation ul.show {
+        display: block;
+    }
+    .navigation ul li {
+        display: block;
+    }
+    .navigation ul li a {
+        display: block;
+        padding: 0.5rem 1rem;
+    }
+    .menu-icon {
+        display: block;
+        cursor: pointer;
+        padding: 0.5rem 1rem;
+    }
+}
 /*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */

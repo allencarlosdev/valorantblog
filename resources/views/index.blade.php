@@ -13,8 +13,9 @@
     <header class="header">
         <div class="container logo-nav-container">
             <a href="#" class="logo">LOGO VALORANT</a>
+            <span class="menu-icon">Menu</span>
             <nav class="navigation">
-                <ul>
+                <ul class="">
                     <li><a href="#" class="">Home</a></li>
                     <li><a href="#" class="">Patch Notes</a></li>
                     <li><a href="#" class="">Highlights</a></li>
@@ -137,7 +138,8 @@
     </footer>
 
 
-
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ asset('js/app.js') }}"></script>
 </body>
 
 </html>
