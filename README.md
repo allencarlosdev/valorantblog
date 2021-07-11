@@ -18,3 +18,4 @@
         <li>PHP</li>
         <li>Git</li>
     </ul>
+    <p>This website has been created from 0, (without templates) only with the inspiration of the official Valorant website </p>
