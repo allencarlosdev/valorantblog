@@ -1,5 +1,4 @@
-<p align="center"><img src="" width="400"></p>
-    <hr>
+<hr>
     <h1 align="center"><strong>Valorant blog</strong></h1>
     <hr>
     <p><strong>Author: Ing Carlos Allen</strong></p>
@@ -18,4 +17,4 @@
         <li>PHP</li>
         <li>Git</li>
     </ul>
-    <p>This website has been created from 0, (without templates) only with the inspiration of the official Valorant website </p>
+    <p><strong>This website has been created from 0, (without templates) only with the inspiration of the official Valorant website </strong></p>
