@@ -43,8 +43,11 @@ p {
 }
 
 .header a {
-    color: white;
+    color: #f9f9f9;
     text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0 0.95em;
 }
 
 .logo-nav-container {
@@ -63,7 +66,7 @@ p {
 }
 .navigation ul li a {
     display: block;
-    padding: 0.6rem 0;
+    padding: 1rem 0;
 }
 .menu-icon {
     display: none;
@@ -85,7 +88,7 @@ p {
     .header {
         background: #111111;
         color: white;
-        padding: 0.6rem 0;
+        padding: 1rem 0;
 
         position: fixed;
         left: 0;
@@ -123,6 +126,7 @@ p {
         display: block;
         cursor: pointer;
         padding: 0.8rem 1rem;
+        font-size: 15px;
     }
 }
 /*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */

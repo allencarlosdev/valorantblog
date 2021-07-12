@@ -13,7 +13,7 @@
     <header class="header">
         <div class="container logo-nav-container">
             <a href="#" class="logo">LOGO VALORANT</a>
-            <span class="menu-icon">Menu</span>
+            <span class="menu-icon"><i class="fas fa-bars"></i></span>
             <nav class="navigation">
                 <ul class="">
                     <li><a href="#" class="">Home</a></li>
@@ -140,6 +140,7 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="{{ asset('js/app.js') }}"></script>
+    <script src="https://kit.fontawesome.com/8d2cede7ac.js" crossorigin="anonymous"></script>
 </body>
 
 </html>
