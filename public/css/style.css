@@ -39,7 +39,7 @@ p {
     position: fixed;
     left: 0;
     top: 0;
-    right: 0;
+    width: 100%;
 }
 
 .header a {
@@ -62,9 +62,8 @@ p {
     display: inline-block;
 }
 .navigation ul li a {
-    margin-top: 1rem;
     display: block;
-    padding: 0.5rem 0;
+    padding: 0.6rem 0;
 }
 .menu-icon {
     display: none;
@@ -86,12 +85,12 @@ p {
     .header {
         background: #111111;
         color: white;
-        padding: 0.8rem 0;
+        padding: 0.6rem 0;
 
         position: fixed;
         left: 0;
         top: 0;
-        right: 0;
+        width: 100%;
     }
 
     .header a {
@@ -102,7 +101,6 @@ p {
     .logo-nav-container {
         display: flex;
         justify-content: space-between;
-        align-items: center;
     }
     .navigation {
         width: 100%;
@@ -119,12 +117,12 @@ p {
     }
     .navigation ul li a {
         display: block;
-        padding: 0.5rem 1rem;
+        padding: 0.5rem 0rem;
     }
     .menu-icon {
         display: block;
         cursor: pointer;
-        padding: 0.5rem 1rem;
+        padding: 0.8rem 1rem;
     }
 }
 /*     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////     */
