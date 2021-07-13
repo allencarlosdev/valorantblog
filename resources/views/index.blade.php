@@ -6,12 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Valorant blog</title>
+    <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">
+
 </head>
 
 <body>
     <header class="header">
-        <div class="container logo-nav-container">
+        <div class="container-fluid logo-nav-container">
             <a href="#" class="logo">LOGO VALORANT</a>
             <span class="menu-icon"><i class="fas fa-bars"></i></span>
             <nav class="navigation">
@@ -19,9 +21,10 @@
                     <li><a href="#" class="">Home</a></li>
                     <li><a href="#" class="">Patch Notes</a></li>
                     <li><a href="#" class="">Highlights</a></li>
-                    <li><a href="#" class="">Contact</a></li>
+                    <li class="li-cta"><a href="#" class="">Contact</a></li>
                 </ul>
             </nav>
+            <a class="cta" href="#" class="">Contact</a>
         </div>
     </header>
 
@@ -136,10 +139,13 @@
     <footer class="footer">
         <h4>Created by : @CarlosAllen93</h4>
     </footer>
-
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- jQuery-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <!-- JavaScript-->
     <script src="{{ asset('js/app.js') }}"></script>
+    <!-- icon awesome-->
     <script src="https://kit.fontawesome.com/8d2cede7ac.js" crossorigin="anonymous"></script>
 </body>
 
