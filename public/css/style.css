@@ -29,6 +29,9 @@ p {
     position: absolute;
     opacity: 0;
 }
+.overlayLogo a svg image.logo2 {
+    transition: 1s;
+}
 
 .overlayLogo:hover a svg image.logo {
     opacity: 0;
