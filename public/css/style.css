@@ -20,6 +20,19 @@ p {
     color: #768079;
     margin-bottom: 1.6em;
 }
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.main {
+    padding: 5rem;
+}
+/*     /////////////////////////////////////////////////*     nav bar    ////////////////////////////////////////////////////////////////*/
+
+/*     /////////////////////////*     overlay logo RIOT   /////////////////////////*/
+
 .overlayLogo {
     position: relative;
     display: inline-block;
@@ -39,16 +52,7 @@ p {
 .overlayLogo:hover a svg image.logo2 {
     opacity: 1;
 }
-
-.container {
-    width: 80%;
-    max-width: 800px;
-    margin: 0 auto;
-}
-.main {
-    padding: 5rem;
-}
-/*     /////////////////////////////////////////////////*     nav bar    ////////////////////////////////////////////////////////////////*/
+/*     //////////////////////////////////////////////////////////////////*/
 .header {
     background: #111111;
     color: #f9f9f9;
@@ -172,6 +176,12 @@ p {
     color: white;
     margin-top: 6rem;
     margin-bottom: 0;
+}
+
+.esrb {
+    display: inline-block;
+    text-align: left;
+    line-height: 19px;
 }
 /*     /////////////////////////////////////////////////////////*    Responsive desgin   ///////////////////////////////////////////////////////*/
 
