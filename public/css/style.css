@@ -4,6 +4,10 @@
 
 
 //////////////////////////////////////////////////////*  background page    //////////////////////////////////////////////////*/
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     background: #ece8e1;
     font-family: sans-serif, georgia;
@@ -166,6 +170,16 @@ p {
 }
 .li-contact {
     visibility: hidden;
+}
+/*/////////////////////////////////////////////////////////////*     section-final    //////////////////////////////////////////////////////////*/
+.section-final {
+    background-image: url(/img/section-final.png);
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-attachment: unset;
+    background-size: cover;
+    min-height: 100vh;
+    min-width: 100vh;
 }
 
 /*     /////////////////////////////////////////////////////////*     footer page    //////////////////////////////////////////////////////////*/

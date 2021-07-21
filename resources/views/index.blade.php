@@ -158,6 +158,23 @@
                 ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
 
         </div>
+        <section id="final">
+            <div class="section-final">
+                <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, mollitia. Numquam
+                    alias
+                    doloremque quam! Sapiente, minima praesentium hic autem nam expedita velit dolores dolorum sequi
+                    debitis
+                    consequatur rem maiores cumque. Veritatis reiciendis aut distinctio earum ea rerum dolore deserunt
+                    suscipit voluptate accusantium, nisi modi placeat ad, rem quo maiores sequi error in autem beatae
+                    enim
+                    quos non at. Quos voluptatum beatae id reiciendis accusantium deserunt, dolorem odit eum dicta
+                    consequatur? Ipsum inventore adipisci, ad suscipit vero atque, saepe facilis molestiae rerum
+                    accusamus
+                    obcaecati fuga est. Ab dignissimos quaerat deserunt rerum ipsum rem, voluptas culpa, distinctio
+                    iusto
+                    fugiat eius commodi beatae?</p>
+            </div>
+        </section>
     </main>
     <footer class="footer">
         <div class="footer-content">
