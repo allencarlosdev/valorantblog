@@ -173,15 +173,58 @@ p {
     background: #111111;
     padding: 4rem 0;
     text-align: center;
-    color: white;
+    color: #585858;
     margin-top: 6rem;
     margin-bottom: 0;
+    font-size: 12px;
 }
 
 .esrb {
-    display: inline-block;
+    display: flex;
     text-align: left;
     line-height: 19px;
+    justify-content: center;
+    align-items: center;
+}
+.esrb-a {
+    display: flex;
+}
+.esrb-b {
+    display: block;
+    margin-left: 6px;
+    line-height: 6px;
+}
+.esrb-b h4 {
+    color: white;
+    font-size: 12px;
+}
+
+.socials {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 40px 20px 0px;
+}
+.socials li {
+    margin: 0 10px;
+}
+.socials a {
+    text-decoration: none;
+    color: #585858;
+}
+.socials a i {
+    font-size: 1.3rem;
+    transition: color 0.4s ease;
+}
+.socials a:hover i {
+    color: #ffffff;
+}
+.footer-copyright a {
+    color: #ff4655;
+}
+.footer-copyright p {
+    color: #585858;
 }
 /*     /////////////////////////////////////////////////////////*    Responsive desgin   ///////////////////////////////////////////////////////*/
 
