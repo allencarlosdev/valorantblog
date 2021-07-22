@@ -8,6 +8,9 @@
     margin: 0;
     padding: 0;
 }
+html {
+    scroll-behavior: smooth;
+}
 body {
     background: #ece8e1;
     font-family: sans-serif, georgia;
@@ -172,24 +175,54 @@ p {
 .li-contact {
     visibility: hidden;
 }
-/*/////////////////////////////////////////////////////////////*     highlights   //////////////////////////////////////////////////////////*/
-.container-highlights {
+/*/////////////////////////////////////////////////////////////*     patch-notes  //////////////////////////////////////////////////////////*/
+
+.container-patch-notes {
+    display: flex;
     position: relative;
     overflow: hidden;
+    flex-wrap: wrap;
+    z-index: -1;
+    top: 100px;
+}
+
+/*/////////////////////////////////////////////////////////////*     highlights   //////////////////////////////////////////////////////////*/
+.container-highlights {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    flex-wrap: wrap;
 }
 .background-highlights {
-    background-image: url(/img/pigeons.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 44%;
+    top: 20%;
+    z-index: 30;
+}
+.background-highlights svg {
     background-repeat: no-repeat;
     position: relative;
-    left: 15%;
 }
 .section-highlights-left {
-    background-image: url(/img/drawingsValorant.png);
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+    right: 35%;
+}
+.section-highlights-left svg {
+    width: 100vw;
+    height: 100vh;
     background-repeat: no-repeat;
     background-attachment: unset;
-    background-size: auto;
+    background-size: cover;
     position: relative;
-    z-index: 50;
+    z-index: 10;
+    margin-bottom: 0;
+    top: 10%;
 }
 .section-highlights-right {
     width: 100vw;
