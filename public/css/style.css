@@ -31,7 +31,7 @@ p {
     margin: 0 auto;
 }
 .main {
-    padding: 5rem;
+    padding: 0;
 }
 /*     /////////////////////////////////////////////////*     nav bar    ////////////////////////////////////////////////////////////////*/
 
@@ -171,15 +171,38 @@ p {
 .li-contact {
     visibility: hidden;
 }
-/*/////////////////////////////////////////////////////////////*     section-final    //////////////////////////////////////////////////////////*/
-.section-final {
-    background-image: url(/img/section-final.png);
+/*/////////////////////////////////////////////////////////////*     highlights   //////////////////////////////////////////////////////////*/
+.container-highlights {
+    width: 100%;
+    height: 1000px;
+}
+.background-highlights {
+    width: 100%;
+    height: 100%;
+    background-image: url(/img/pigeons.png);
     background-repeat: no-repeat;
-    background-position: unset;
+
+    left: 15%;
+}
+.section-highlights-left {
+    background-image: url(/img/drawingsValorant.png);
+
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: unset;
+    background-size: auto;
+}
+.section-highlights-right {
+    width: 100%;
+    height: 100%;
+}
+.section-highlights-right svg {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
     background-attachment: unset;
     background-size: cover;
-    min-height: 100vh;
-    min-width: 100vh;
 }
 
 /*     /////////////////////////////////////////////////////////*     footer page    //////////////////////////////////////////////////////////*/
@@ -188,7 +211,7 @@ p {
     padding: 4rem 0;
     text-align: center;
     color: #585858;
-    margin-top: 6rem;
+    margin-top: 0;
     margin-bottom: 0;
     font-size: 12px;
 }
@@ -206,11 +229,11 @@ p {
 .esrb-b {
     display: block;
     margin-left: 6px;
-    line-height: 6px;
 }
 .esrb-b h4 {
     color: white;
     font-size: 12px;
+    line-height: 20px;
 }
 
 .socials {
@@ -218,7 +241,7 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 10px 40px 20px 0px;
+    margin: 10px 8px 10px 0px;
 }
 .socials li {
     margin: 0 10px;
