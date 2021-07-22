@@ -32,6 +32,7 @@ p {
 }
 .main {
     padding: 0;
+    margin: 0;
 }
 /*     /////////////////////////////////////////////////*     nav bar    ////////////////////////////////////////////////////////////////*/
 
@@ -173,36 +174,40 @@ p {
 }
 /*/////////////////////////////////////////////////////////////*     highlights   //////////////////////////////////////////////////////////*/
 .container-highlights {
-    width: 100%;
-    height: 1000px;
+    position: relative;
+    overflow: hidden;
 }
 .background-highlights {
-    width: 100%;
-    height: 100%;
     background-image: url(/img/pigeons.png);
     background-repeat: no-repeat;
-
+    position: relative;
     left: 15%;
 }
 .section-highlights-left {
     background-image: url(/img/drawingsValorant.png);
-
-    width: 100%;
-    height: 100%;
     background-repeat: no-repeat;
     background-attachment: unset;
     background-size: auto;
+    position: relative;
+    z-index: 50;
 }
 .section-highlights-right {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
 }
 .section-highlights-right svg {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     background-repeat: no-repeat;
     background-attachment: unset;
     background-size: cover;
+    position: relative;
+    z-index: -1;
+    margin-bottom: 0;
+    padding: 0;
+    left: 22vw;
 }
 
 /*     /////////////////////////////////////////////////////////*     footer page    //////////////////////////////////////////////////////////*/
@@ -214,6 +219,8 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     font-size: 12px;
+    position: relative;
+    z-index: 100;
 }
 
 .esrb {
