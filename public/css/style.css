@@ -180,18 +180,24 @@ p {
 .container-patch-notes {
     display: flex;
     position: relative;
-    overflow: hidden;
     flex-wrap: wrap;
     z-index: -1;
     top: 100px;
+    overflow: hidden;
 }
-
+.section-patch-notes-left svg {
+    position: absolute;
+    z-index: 90;
+    left: 150px;
+    top: 5px;
+}
 /*/////////////////////////////////////////////////////////////*     highlights   //////////////////////////////////////////////////////////*/
 .container-highlights {
     display: flex;
     position: relative;
     overflow: hidden;
     flex-wrap: wrap;
+    z-index: -1;
 }
 .background-highlights {
     background-repeat: no-repeat;
