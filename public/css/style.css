@@ -175,6 +175,23 @@ p {
 .li-contact {
     visibility: hidden;
 }
+/*/////////////////////////////////////////////////////////////*     home    //////////////////////////////////////////////////////////*/
+.container-home {
+    overflow: hidden;
+}
+.background-home {
+    background-color: #0f1923;
+    width: 100vw;
+    height: 90vh;
+    z-index: -1;
+}
+.video-home video {
+    position: relative;
+    width: 100vw;
+    height: 90vh;
+    top: 35px;
+}
+
 /*/////////////////////////////////////////////////////////////*     patch-notes  //////////////////////////////////////////////////////////*/
 
 .container-patch-notes {

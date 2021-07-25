@@ -37,7 +37,7 @@
             <div class="nav-container-center">
                 <nav class="navigation">
                     <ul class="">
-                        <li><a href="#" class="">Home</a></li>
+                        <li><a href="#home" class="">Home</a></li>
                         <li><a href="#patch-notes" class="">Patch Notes</a></li>
                         <li><a href="#highlights" class="">Highlights</a></li>
                         <li class="li-contact"><a href="#" class="">Contact</a></li>
