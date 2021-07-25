@@ -52,110 +52,18 @@
     </header>
 
     <main class="main">
+        <section id="home">
+            <div class="container-home">
+                <div class="background-home">
+                    <div class="video-home">
+                        <video src="/img/videoValorant.mp4" width="1280" height="720" autoplay muted loop></video>
+                    </div>
+                </div>
+            </div>
+
+        </section>
         <div class="container">
-            <h1>VALORANT BLOG</h1>
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
 
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
-            <p class="">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos laboriosam iste iusto ipsa,
-                ratione dignissimos in ipsum excepturi inventore mollitia! Recusandae, provident maiores inventore quas
-                corporis ratione. Libero dolorem excepturi ipsum eligendi, quod odit alias maxime est rem eos, in ut
-                provident consequatur magnam veniam ullam sit odio! Facere nihil minima aut ipsam, voluptatum saepe!
-                Nisi, maxime consequatur nam voluptates saepe, quisquam deleniti dolores sint obcaecati repellat labore
-                praesentium. Veniam recusandae tempore dicta cupiditate saepe magnam officia error numquam, incidunt
-                ipsa hic atque optio architecto aut vitae consectetur, quasi dignissimos minima? Voluptatum numquam
-                ipsam at ipsa, cupiditate nemo accusantium. Consequatur!</p>
 
         </div>
         <section id="patch-notes">
