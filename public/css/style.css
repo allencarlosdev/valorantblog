@@ -191,6 +191,19 @@ p {
     height: 90vh;
     top: 35px;
 }
+.play-valorant {
+    background-color: #ff4655;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    border-radius: 2px;
+    min-width: 100px;
+    max-width: 150px;
+    height: 14px;
+    text-align: center;
+    position: absolute;
+    justify-content: center;
+}
 
 /*/////////////////////////////////////////////////////////////*     patch-notes  //////////////////////////////////////////////////////////*/
 

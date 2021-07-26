@@ -57,6 +57,9 @@
                 <div class="background-home">
                     <div class="video-home">
                         <video src="/img/videoValorant.mp4" width="1280" height="720" autoplay muted loop></video>
+                        <div class="text-valorant">
+                            <a href="#" class="play-valorant"> PLAY FREE</a>
+                        </div>
                     </div>
                 </div>
             </div>
