@@ -186,10 +186,11 @@ p {
     z-index: -1;
 }
 .video-home video {
-    position: relative;
+    position: absolute;
     width: 100vw;
     height: 90vh;
     top: 35px;
+    z-index: 20;
 }
 .play-valorant {
     background-color: #ff4655;
