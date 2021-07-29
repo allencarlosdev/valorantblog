@@ -13,6 +13,7 @@
         <li>VueJs</li>
         <li>Html</li>
         <li>CSS</li>
+        <li>Tailwind</li>
         <li>JavaScript</li>
         <li>PHP</li>
         <li>Git</li>
