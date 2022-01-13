@@ -177,6 +177,10 @@ p {
 }
 /*/////////////////////////////////////////////////////////////*     home    //////////////////////////////////////////////////////////*/
 .container-home {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    z-index: -1;
     overflow: hidden;
 }
 .background-home {
@@ -190,7 +194,6 @@ p {
     width: 100vw;
     height: 90vh;
     top: 35px;
-    z-index: 20;
 }
 .play-valorant {
     background-color: #ff4655;
