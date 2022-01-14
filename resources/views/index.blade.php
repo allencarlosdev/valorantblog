@@ -46,7 +46,7 @@
             </div>
             <div class="nav-container-right">
                 <span class="menu-icon"><i class="fas fa-bars"></i></span>
-                <a class="contact" href="#" class="">Contact</a>
+                <a class="contact" href="https://github.com/CarlosAllen93" target="_blank" class="">Contact</a>
             </div>
         </div>
     </header>
